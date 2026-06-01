@@ -36,3 +36,6 @@ bash scripting, and network reconnaissance.
 - Writing and running bash scripts
 - Using variables, command substitution, and output redirection
 - Pushing projects to GitHub from the command line
+
+## Network Diagram
+![Network Diagram](network-recon-lab.png)
